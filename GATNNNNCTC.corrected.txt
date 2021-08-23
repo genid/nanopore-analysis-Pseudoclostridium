@@ -1,0 +1,6 @@
+,barcode01,barcode02,barcode03,barcode04,barcode05
+barcode01,1,,,,
+barcode02,1.10E-20,1,,,
+barcode03,7.88E-20,1,1,,
+barcode04,1.96E-20,1,1,1,
+barcode05,1.05E-19,1,1,1,1

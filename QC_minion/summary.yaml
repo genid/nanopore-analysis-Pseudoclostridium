@@ -1,0 +1,57 @@
+input file: guppy_basecaller/sequencing_summary.txt
+All reads:
+  total.gigabases: 10.0046866
+  total.reads: 1032917
+  N50.length: 24010.0
+  mean.length: 9685.9
+  median.length: 3889.0
+  max.length: 162408.0
+  mean.q: 10.9
+  median.q: 11.6
+  reads:
+    '>10kb': 305715
+    '>20kb': 169358
+    '>50kb': 18032
+    '>100kb': 162
+    '>200kb': 0
+    '>500kb': 0
+    '>1m': 0
+    ultralong: 360.0
+  gigabases:
+    '>10kb': 7.7530136
+    '>20kb': 5.7845718
+    '>50kb': 1.0743301
+    '>100kb': 0.0184342
+    '>200kb': 0.0
+    '>500kb': 0.0
+    '>1m': 0.0
+    ultralong: 0.0368437
+Q>=7:
+  total.gigabases: 9.3709271
+  total.reads: 948653
+  N50.length: 24204.0
+  mean.length: 9878.1
+  median.length: 4024.0
+  max.length: 162408.0
+  mean.q: 11.4
+  median.q: 11.8
+  reads:
+    '>10kb': 287022
+    '>20kb': 159530
+    '>50kb': 17094
+    '>100kb': 149
+    '>200kb': 0
+    '>500kb': 0
+    '>1m': 0
+    ultralong: 330.0
+  gigabases:
+    '>10kb': 7.2962709
+    '>20kb': 5.4547798
+    '>50kb': 1.0184725
+    '>100kb': 0.0169316
+    '>200kb': 0.0
+    '>500kb': 0.0
+    '>1m': 0.0
+    ultralong: 0.0337763
+notes: ultralong reads refers to the largest set of reads with N50>100KB
+
